@@ -4,6 +4,4 @@
 <script src="{{ asset('../asset/js/core/bootstrap.min.js') }}"></script>
 <!-- Bootstrap Tagsinput -->
 <script src="{{ asset('../asset/js/plugin/bootstrap-tagsinput/bootstrap-tagsinput.min.js') }}"></script>
-<script>
-    
-</script>
+@yield('script')
